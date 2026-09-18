@@ -12,6 +12,6 @@ You can view the live deployment here: **[http://3.94.106.232](http://3.94.106.2
 ---
 ### 📂 Project Overview
 Successfully configured AWS Security Groups (HTTP Port 80 & SSH Port 22), managed remote Linux file permissions, deployed Nginx via systemd, and hosted a custom responsive landing page from scratch.
-project image: https://github.com/fahadkaka445/First-Cloud-Deployment/blob/508fbda5b9e78526556d7ddefe487cc8a9224d7c/aws%20github%20project.png
+![My AWS Nginx Portfolio](https://raw.githubusercontent.com/fahadkaka445/First-Cloud-Deployment/main/aws%20github%20project.png)
 ---
 
